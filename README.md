@@ -12,7 +12,6 @@ Here are some screenshots of PeakForm:
 ![Dashboard](PFHome.png)
 ![Trends](PFTrack.png)
 
-
 ## Features
 - Track performance metrics
 - Analyze trends over time
@@ -29,7 +28,7 @@ To get started with PeakForm, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/PeakForm.git
+    git clone https://github.com/defford/PeakForm.git
     ```
 2. Navigate to the project directory:
     ```bash
