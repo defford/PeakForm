@@ -5,6 +5,14 @@ PeakForm is a JavaScript project designed to help users track and analyze their 
 
 This project isn't completed, but has many of the core features in place.
 
+## Screenshots
+
+Here are some screenshots of PeakForm:
+
+![Dashboard](PFHome.png)
+![Trends](PFTrack.png)
+
+
 ## Features
 - Track performance metrics
 - Analyze trends over time
