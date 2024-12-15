@@ -1,0 +1,25 @@
+{
+    "workouts": [
+        {
+            "name": "Push-ups",
+            "measurements": ["sets", "reps"]
+        },
+        {
+            "name": "Squats",
+            "measurements": ["sets", "reps"]
+        },
+        {
+            "name": "Plank",
+            "measurements": ["duration", "sets"]
+        },
+
+        {
+            "name": "Bicep Curls",
+            "measurements": ["weight", "sets", "reps"]
+        },
+        {
+            "name": "Leg Press",
+            "measurements": ["weight", "sets", "reps"]
+        }
+    ]
+}
