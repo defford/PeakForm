@@ -44,4 +44,4 @@ To start using PeakForm, just click Go Live, or open the directory in your brows
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or feedback, please contact me at [email@example.com](mailto:defford@gmail.com).
+For any questions or feedback, please contact me at [defford@gmail.com](mailto:defford@gmail.com).
